@@ -1,7 +1,7 @@
 import unittest
 
-from tournament.teams import register_team
-from tournament.fixtures import generate_fixtures
+from teams import register_team
+from fixtures import generate_fixtures
 
 
 class EngineerATests(unittest.TestCase):
